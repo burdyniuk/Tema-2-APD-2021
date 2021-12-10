@@ -1,0 +1,1 @@
+docker build -t apd/tema2:v1.0 .
